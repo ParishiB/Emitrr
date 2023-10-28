@@ -8,7 +8,7 @@ app.use(express.json())
 app.use(cors())
 
 
-mongoose.connect("mongodb+srv://admin:admin@cluster0.t6qewhk.mongodb.net/employee?retryWrites=true&w=majority");
+mongoose.connect("mongodb+srv://admin:<password>@cluster0.t6qewhk.mongodb.net/employee?retryWrites=true&w=majority");
 
 app.post("/login" ,(req,res) => {
     const {email,password} = req.body;
