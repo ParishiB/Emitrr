@@ -14,7 +14,7 @@ function QuizResult(props) {
     </div>
     <div className="text-center">
     <h1 className='font-bold p-[20px]'>See you next time!!!Bye</h1>
-    <button className="bg-green-500 font-bold text-center p-[15px] rounded"> <Link to='/signup'>Log Out</Link></button>
+    <button className="bg-green-500 font-bold text-center p-[15px] rounded"> <Link to='/home'>Log Out</Link></button>
     </div>
 
     </>
