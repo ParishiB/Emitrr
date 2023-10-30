@@ -17,7 +17,7 @@
 
 # To locally setup on your system 
 - clone your repo locally
-- Incase you don't lnow(https://dev.to/ceceliacreates/how-to-clone-a-github-repository-59hg)
+- Incase you don't know(https://dev.to/ceceliacreates/how-to-clone-a-github-repository-59hg)
 - Install dependencies
 - Update Configurations
 - start development server
